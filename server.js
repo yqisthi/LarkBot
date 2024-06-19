@@ -5,7 +5,7 @@ import axios from "axios";
 
 const app = express();
 const PORT = 3000;
-const VERIFY_TOKEN = "E5udpopGayiEXbQpPOQCHdoAsxa38hsn";
+const VERIFY_TOKEN = "c7989e3c928b129594aef728344fac52";
 const LARK_API_URL = "https://open.larksuite.com/open-apis/im/v1/messages/";
 const AUTH_TOKEN = "t-g2056je76MCNLMH5ZFPO5PBUFYVPOYVW6OKVTNYS"; // Replace with your actual authorization token
 const CHAT_ID = "oc_da933eb5b74c65d365a70b5277ac459d"; // Replace with the actual chat_id
